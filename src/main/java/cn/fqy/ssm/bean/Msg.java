@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * 响应状态，携带信息等
+ * 状态码：100成功，200失败
  * @author acer
  *
  */

@@ -7,6 +7,15 @@
   <build/>
   
   <dependencies>
+  
+  	<!-- 数据格式校验 -->
+  		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
+		<dependency>
+		    <groupId>org.hibernate</groupId>
+		    <artifactId>hibernate-validator</artifactId>
+		    <version>5.4.1.Final</version>
+		</dependency>
+  	
   	
   	<!-- 将对象转为json数据格式 -->
   		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
